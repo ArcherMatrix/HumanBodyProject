@@ -69,3 +69,49 @@
   - Smooth muscles in the digestive tract help move food through the digestive system
 - Facial Expression
   - Muscles of the face and the neck allow for a wide variety of facial expressions which are used during communication and social interactions
+
+## Cardiovascular System
+
+### Components
+
+- Heart
+  - The muscular pump at the center of the system.
+  - Divided into four chambers: two atria (upper chambers) and two ventricles (lower chambers).
+  - Pumps blood throughout the body via rhythmic contractions.
+- Blood Vessels
+  - A network of tubular structures that transport blood.
+-Arteries
+  - Carry oxygen-rich blood away from the heart to the body.
+- Veins
+  - Return oxygen-depleted blood back to the heart.
+- Capillaries
+  - Tiny vessels where the exchange of oxygen, nutrients, and waste occurs between blood and tissues.
+- Blood
+  - The fluid that circulates through the vessels, consisting of:
+    - Red Blood Cells (RBCs): Carry oxygen using hemoglobin.
+    - White Blood Cells (WBCs): Defend the body against infections.
+- Platelets: Aid in blood clotting.
+- Plasma: The liquid component that transports nutrients, hormones, and waste products.
+
+### Functions
+
+- Transportation
+  - Oxygen and Carbon Dioxide
+    - Transports oxygen from the lungs to tissues and removes carbon dioxide from tissues to the lungs.
+  - Nutrients and Hormones
+    - Delivers nutrients from the digestive system and hormones from glands to cells.
+  - Waste Removal
+    - Carries waste products like carbon dioxide and urea to organs like the lungs and kidneys for excretion.
+- Regulation
+  - Helps regulate body temperature by distributing heat.
+  - Maintains homeostasis by balancing pH, fluid levels, and electrolyte concentrations.
+- Protection:
+  - Immune Function
+    - WBCs in the blood defend against pathogens.
+  Clotting Mechanism
+    - Platelets and clotting factors prevent excessive blood loss during injuries.
+- Blood Pressure Maintenance
+  - Arteries and the heart work together to maintain consistent blood pressure, ensuring effective circulation to all tissues.
+- Support for Other Systems
+  - Works closely with the respiratory system for oxygen exchange.
+  - Supports the kidneys in filtering and maintaining fluid balance.
