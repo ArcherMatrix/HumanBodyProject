@@ -80,7 +80,7 @@
   - Pumps blood throughout the body via rhythmic contractions.
 - Blood Vessels
   - A network of tubular structures that transport blood.
--Arteries
+- Arteries
   - Carry oxygen-rich blood away from the heart to the body.
 - Veins
   - Return oxygen-depleted blood back to the heart.
